@@ -24,3 +24,8 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 Ao final, deve-se exibir uma mensagem:
 <br>
 "O Herói de nome **{nome}** está no nível de **{nivel}**."
+
+<br>
+
+**Observação da desenvolvedora:**
+Notei uma pequena falha na proposta do projeto no que se refere aos intervalos de XP para classificação de nível do Herói, pois não há igualdade para os valores escolhidos, apenas referência de "maior que" ou "menor que". Sendo assim, realizei o ajuste igualando tomando por referência o primeiro nível.
